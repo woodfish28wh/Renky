@@ -1,0 +1,6 @@
+# 请填入讯飞星火大模型web api的参数来调用星火大模型
+# 获取参数的方法详见此文档 https://www.bilibili.com/read/cv27066577/
+xinghuo_web:
+  cookie: xxxx
+  fd: xxxx
+  GtToken: xxxxxxx
